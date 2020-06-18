@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Surge Link
-http://counter-daynight-reactapp.surge.sh/
+## Surge Link: http://counter-daynight-reactapp.surge.sh/
 
 ## Available Scripts
 
