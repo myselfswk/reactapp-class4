@@ -4,9 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Basic understanding with ReactJS
 No Proper UI
 
-## Surge Link:
-http://counter-daynight-reactapp.surge.sh/
-
 ## Available Scripts
 
 In the project directory, you can run:
